@@ -1,0 +1,20 @@
+.wall {
+    background-color: rgb(35, 31, 32);
+    height: 50px;
+}
+
+.nav {
+    color: white;
+    text-align: center;
+    margin: 10px 120px;
+    font-family: "Source Sans Pro", "Hiragino Sans GB", "Microsoft JhengHei", arial, helvetica, sans-serif;
+}
+
+.nav>a {
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+.nav>a:hover {
+    color: #76cdd8;
+}
